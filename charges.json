@@ -1,0 +1,46 @@
+[
+        {
+            "id": 22120,
+            "is_private": true,
+            "transaction_id": "dc8e55eb-98e1-11ee-aaed-000000005668",
+            "request_time": "2023-12-12T12:30:32.505320+01:00",
+            "start_time": "2023-12-12T12:30:43.344734+01:00",
+            "end_time": null,
+            "kwh_price": "0.00",
+            "minute_price": "0.00",
+            "parking_price": "0.00",
+            "total_kwh": "0.00",
+            "total_amount": "0.00",
+            "discount": null,
+            "plug_number": 1,
+            "status": "Charging",
+            "coupons": [
+                3151
+            ],
+            "stripe_payments_id": [],
+            "tower": 111,
+            "user": 2695
+        },
+        {
+            "id": 22119,
+            "is_private": false,
+            "transaction_id": "9c966588-98e1-11ee-b26f-000000005667",
+            "request_time": "2023-12-12T12:28:45.341395+01:00",
+            "start_time": "2023-12-12T12:28:53.267336+01:00",
+            "end_time": "2023-12-12T12:30:44.667291+01:00",
+            "kwh_price": "0.00",
+            "minute_price": "0.00",
+            "parking_price": "0.00",
+            "total_kwh": "0.19",
+            "total_amount": "0.00",
+            "discount": "0.00",
+            "plug_number": 2,
+            "status": "Completed",
+            "coupons": [
+                3288
+            ],
+            "stripe_payments_id": [],
+            "tower": 220,
+            "user": 23
+        },
+]
